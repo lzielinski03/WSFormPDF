@@ -1,0 +1,58 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="WSFormPDF:war exploded">
+    <output-path>$PROJECT_DIR$/target/wsformpdf-1.0-SNAPSHOT</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="WSFormPDF" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.1" />
+          <element id="library" level="project" name="Maven: javax.xml.stream:stax-api:1.0-2" />
+          <element id="library" level="project" name="Maven: javax.activation:activation:1.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: aopalliance:aopalliance:1.0" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-asm:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context-support:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-orm:3.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-entitymanager:3.5.1-Final" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-core:3.5.1-Final" />
+          <element id="library" level="project" name="Maven: antlr:antlr:2.7.6" />
+          <element id="library" level="project" name="Maven: commons-collections:commons-collections:3.1" />
+          <element id="library" level="project" name="Maven: dom4j:dom4j:1.6.1" />
+          <element id="library" level="project" name="Maven: xml-apis:xml-apis:1.0.b2" />
+          <element id="library" level="project" name="Maven: javax.transaction:jta:1.1" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-annotations:3.5.1-Final" />
+          <element id="library" level="project" name="Maven: org.hibernate:hibernate-commons-annotations:3.2.0.Final" />
+          <element id="library" level="project" name="Maven: cglib:cglib:2.2" />
+          <element id="library" level="project" name="Maven: asm:asm:3.1" />
+          <element id="library" level="project" name="Maven: javassist:javassist:3.9.0.GA" />
+          <element id="library" level="project" name="Maven: org.hibernate.javax.persistence:hibernate-jpa-2.0-api:1.0.0.Final" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.5.8" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.4.2" />
+          <element id="library" level="project" name="Maven: log4j:log4j:1.2.13" />
+          <element id="library" level="project" name="Maven: taglibs:standard:1.1.2" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.1.2" />
+          <element id="library" level="project" name="Maven: org.apache.pdfbox:pdfbox:1.8.8" />
+          <element id="library" level="project" name="Maven: org.apache.pdfbox:fontbox:1.8.8" />
+          <element id="library" level="project" name="Maven: org.apache.pdfbox:jempbox:1.8.8" />
+          <element id="library" level="project" name="Maven: commons-logging:commons-logging:1.1.1" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.38" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="C:\Users\lzielinski\IdeaProjects\WSFormPDF\target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="WSFormPDF/web/Web" />
+    </root>
+  </artifact>
+</component>
